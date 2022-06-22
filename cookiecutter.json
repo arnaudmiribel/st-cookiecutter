@@ -1,0 +1,7 @@
+{
+    "app_name": "app",
+    "app_title": "My Streamlit app",
+    "app_uses_secrets": 1,
+    "app_is_multi_page": 1,
+    "app_uses_snowflake": 0
+}
